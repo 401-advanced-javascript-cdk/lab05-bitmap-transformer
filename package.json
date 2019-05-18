@@ -1,0 +1,26 @@
+{
+  "name": "lab05-bitmap-transformer",
+  "version": "1.0.0",
+  "description": "Bitmap Transformer CLI",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint **/.js",
+    "test": "jest --coverage --verbose --color",
+    "test-watch": "jest --watchAll --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-cdk/lab05-bitmap-transformer.git"
+  },
+  "dependencies": {
+    "eslint": "^5.6.1",
+    "jest": "^23.6.0"
+  },
+  "keywords": [],
+  "author": "Chris Kozlowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-cdk/lab05-bitmap-transformer/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-cdk/lab05-bitmap-transformer#readme"
+}
