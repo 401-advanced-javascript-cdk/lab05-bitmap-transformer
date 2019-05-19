@@ -8,5 +8,5 @@ try {
   transformer([file, operation]);
 }
 catch(e) {
-  throw e
+  throw e;
 }
