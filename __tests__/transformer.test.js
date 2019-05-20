@@ -14,4 +14,5 @@ describe('transformer', () => {
   it('takes 2 arguments on the command line', () => {
     expect( () => transformer(args.slice(2)) ).not.toThrow();
   });
+  
 });
