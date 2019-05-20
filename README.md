@@ -3,7 +3,7 @@ Uses the command line to select a bitmap image and a transformation.  The image 
 ### Author: Chris Kozlowski
 
 ### Links and Resources
-* [Submission PR]( --- )
+* [Submission PR](https://github.com/401-advanced-javascript-cdk/lab05-bitmap-transformer/pull/2)
 * [Travis](https://travis-ci.com/401-advanced-javascript-cdk/lab05-bitmap-transformer)
 
 ### Modules
